@@ -1,4 +1,5 @@
 # Getting Started
+This is a simple spring reactive java project to handle basic CRUD api request.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
