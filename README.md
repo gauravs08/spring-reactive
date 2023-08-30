@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2. Run the project 
-    ```./mvnw spring-boot:run
+    ```./mvnw spring-boot:run```
 3. The API will be available at http://localhost:8080/api/books.
 
     Endpoints
